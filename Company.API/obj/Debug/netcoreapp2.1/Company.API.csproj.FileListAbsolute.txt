@@ -1,0 +1,16 @@
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\bin\Debug\netcoreapp2.1\Company.API.deps.json
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\bin\Debug\netcoreapp2.1\Company.API.runtimeconfig.json
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\bin\Debug\netcoreapp2.1\Company.API.runtimeconfig.dev.json
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\bin\Debug\netcoreapp2.1\Company.API.dll
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\bin\Debug\netcoreapp2.1\Company.API.pdb
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\obj\Debug\netcoreapp2.1\Company.API.csproj.CoreCompileInputs.cache
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\obj\Debug\netcoreapp2.1\Company.API.RazorAssemblyInfo.cache
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\obj\Debug\netcoreapp2.1\Company.API.RazorAssemblyInfo.cs
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\obj\Debug\netcoreapp2.1\Company.API.AssemblyInfoInputs.cache
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\obj\Debug\netcoreapp2.1\Company.API.AssemblyInfo.cs
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\obj\Debug\netcoreapp2.1\Company.API.RazorTargetAssemblyInfo.cache
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\obj\Debug\netcoreapp2.1\Company.API.dll
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\obj\Debug\netcoreapp2.1\Company.API.pdb
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\obj\Debug\netcoreapp2.1\Company.API.csprojAssemblyReference.cache
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\bin\Debug\netcoreapp2.1\Company.API.xml
+E:\Projects\NorwayERPTest\NERPTest\src\Services\Company\Company.API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
